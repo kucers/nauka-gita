@@ -5,6 +5,7 @@
 
 .container h2 {
     font-style: italic;
+    color: blue;
 }
 .container p:first-of-type {
     padding-top: 20px;
