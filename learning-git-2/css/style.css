@@ -1,6 +1,10 @@
 .container {
     width: 30%;
     margin: 30px auto;
+    padding-left: 10px;
+    border-style: dashed;
+    border-radius: 10px;
+        
 }
 
 .container h2 {
@@ -9,7 +13,9 @@
 }
 .container p:first-of-type {
     padding-top: 20px;
+    
 }
 .container p {
     padding-top: 5px;
+    
 }
